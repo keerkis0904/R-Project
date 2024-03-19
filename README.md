@@ -1,2 +1,2 @@
 # R-Project
-Here is a repository with examples of R scripts crafted to address diverse and intriguing questions, providing insights for analytical purposes in an R project.
+Here is a repository with examples of R scripts crafted to address diverse and intriguing questions, providing insights for analytical purposes.
